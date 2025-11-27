@@ -1,0 +1,74 @@
+Celsius zu Fahrenheit convertierer
+
+// Main Methode celsiusZuFahrenheit
+ 
+// man definiert den double celius
+// Methode fahrenheitToCelsius ausführen mit celiusEingabe
+// Ergebnis in der Konsole ausgeben
+// man definiert den double celius
+// Methode fahrenheitToCelsius ausführen mit celiusEingabe
+// Ergebnis in der Konsole ausgeben
+// man definiert den double fahrenheit
+// Methode fahrenheitToCelsius ausführen mit celiusEingabe
+// Ergebnis in der Konsole ausgeben
+// man definiert den double fahrenheit
+// Methode fahrenheitToCelsius ausführen mit celiusEingabe
+// Ergebnis in der Konsole ausgeben
+
+
+//Methode celsiusZuFahrenheit
+
+//Rechnung wird durchgeführtc der gegebenen Variable celius um fahrenheit zu bekommen
+//Methode fahrenheitToCelsius gibt das celius zurück
+
+
+//Methode fahrenheitToCelsius 
+
+//Rechnung wird durchgeführtc der gegebenen Variable fahrenheit um celsius zu bekommen
+//Methode fahrenheitToCelsius gibt das celius zurück
+
+
+BMIHealthAdvisor
+
+//Main Methode BMIHealthAdvisor
+
+//Einlesen von Wert weightKG (double) und sizeCM (double) 
+//printHealthReport mit weightKG und sizeCm ausführen
+
+
+//Methode printHealthReport
+
+//Ausgabe von sizeCM und weightKG
+//calculateBMI mit sizeCM und weightKG
+//ausgabe vom bmi
+//getBMICategory wird ausgeführt
+//Ausgabe von category
+//ausführen von getHealthTip
+//Ausgabe von healthTip
+
+//Methode calculateBMI
+
+//bmi = weightKG / (sizeCM / 100) ^2
+//return bmi
+
+// Methode getBMICategory
+
+//wenn bmi < 18.5
+	//setze category auf -1
+//wenn bmi >= 25
+	//setze category auf 1
+//ansonsten 
+	//setze category auf 0
+	
+//return category
+
+//Methode getHealthTip
+
+//wenn category -1
+	//tip wird zu string 1
+//wenn category 0
+	//tip wird zu string 2
+//ansonsten
+	//tip wird zu string 3
+	
+//return tip

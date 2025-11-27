@@ -1,0 +1,22 @@
+// Eingabeaufforderung: Anzahl kleine und große Boxen und Kuchenstücke einlesen
+
+// Einlesen der Anzahl
+
+// Variablen: großeBox = 6, kleine Box = 1
+
+// Rechnung: Anzahl möglicher Kuchen insgesamt: Anzahl groß * großeBox + Anzahl klein + kleineBox
+
+// variablen: großeBoxAusgabe, kleineBoxAusgabe;
+
+// falls Anzahl möglicher Kuchen kleiner Anzahl gewünschter Kuchen --> Ausgabe: geht nicht
+
+// Rechnung: Teile gewünschte Anzahl durch große Box --> nötigeBoxGross
+
+//falls nötigeBoxGross > AnzahlGrosseBox
+// nötigeBoxGross = AnzahlGrosseBox
+
+// Rechnung: nötigeKleineBox = gewünschte Anzahl - grosseBox * nötogeBoxGross
+
+// Falls AnzahlKleineBox < nötigeKleineBox --> Ausgabe geht nicht
+//ansonst
+// Ausgabe: nötigeBoxGross + nötigeKleineBox
