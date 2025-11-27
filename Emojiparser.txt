@@ -1,0 +1,22 @@
+Emojiparser
+
+Substring Methode
+lowercase Methode
+indexOf Methode?
+if Anweisungen
+while Schleife
+
+//---------------MAIN--------------
+//Initialisierung String = Benutzereingabe
+//Eingabe: Nachricht
+//Methode[EmojiVerarbeitung]
+//Ausgabe verarbeitete Nachricht
+//Überprüfen ob der String gültig ist für die Weiterverarbeitung (Länge und "null")
+
+//----------Emoji_Verarbeitung-----------
+//while(solange) String lang ist (check ab Doppelpunkt bis zum nächsten den Inhalt und überprüfe diesen)
+	//Kontrolle der festgelegten Emoji Codes (weitere Methode benötigt?)
+	//Ersetzen der Emoji Codes
+	//Rückgabe verarbeitete Nachricht
+
+//Sobald Doppelpunkt prüfen ob ein String folgt bis zum nächsten Doppelpunkt
